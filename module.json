@@ -1,0 +1,28 @@
+{
+  "id": "czechtranslationdicetray",
+  "title": "CzechTranslationDiceTray",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12.331",
+    "verified": "12.331"
+  },
+  "description": "Český překlad Dice Tray.",
+  "authors": [
+    {
+      "name": "Lethrendis",
+      "email": "michmildub@seznam.cz",
+      "discord": "Lethrendis",
+      "flags": {}
+    }
+  ],
+  "languages": [
+      {
+      "lang": "cs",
+      "name": "Čeština",
+      "path": "lang/cs.json"
+    }
+  ],
+  "url": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationDiceTray/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationDiceTray/main/module.json",
+  "download": "https://github.com/Lethrendis/CzechTranslationDiceTray/archive/refs/heads/main.zip"
+}
