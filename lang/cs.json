@@ -1,0 +1,99 @@
+{
+	"DICE_TRAY": {
+		"Adv": "V.",
+		"Advantage": "Výhoda",
+		"DiceTray": "Dice Tray",
+		"Dis": "NV.",
+		"Disadvantage": "Nevýhoda",
+		"FateDice": "Kostky osudu",
+		"For": "Pro",
+		"Fortune": "Štěstí (kh)",
+		"Misfortune": "Smůla (kl)",
+		"Mis": "Smůla",
+		"Wild": "Divoká",
+		"Ace": "Eso",
+		"WildDie": "Divoká kostka",
+		"ExplodingDie": "Explodující kostka",
+		"PlusOneDie": "+1k",
+		"MinusOneDie": "-1k",
+		"PlusOneDieLong": "Zvětšit velikost kostky",
+		"MinusOneDieLong": "Zmenšit velikost kostky",
+		"KeepHighest": "Udržet nejvyšší",
+		"KeepLowest": "Udržet nejnižší",
+		"del": "odstranit",
+		"clear": "vymazat",
+
+		"Calculator": "Kalkulačka",
+
+		"DiceCreator": {
+			"CreateDice": "Vytvořit kostku",
+			"Formula": {
+				"name": "Vzorec",
+				"hint": "Vzorec, která bude přidán do chatu."
+			},
+			"Row": {
+				"name": "Řádek",
+				"hint": "Řádek, na kterém bude tlačítko umístěno."
+			},
+			"Image": {
+				"name": "Obrázek"
+			},
+			"Label": {
+				"name": "Označení",
+				"hint": "(Volitelné) Označení zobrazované v případě, že kostka nemá obrázek."
+			},
+			"Tooltip": {
+				"name": "Popiska",
+				"hint": "(Volitelné) Popiska zobrazená při přejetí myší nad tlačítkem. Výchozí hodnota je ´Vzorec´."
+			},
+			"Color": {
+				"name": "Barva",
+				"hint": "(Volitelné) Barva, která vyplní obrázek. Výchozí hodnota je ´bílá´."
+			}
+		},
+
+		"DiceRows": {
+			"Instruction1": "Klikni na libovolné tlačítko kostky pro její úpravu.",
+			"Instruction2": "Kliknutím pravým tlačítkem myši na tlačítko kostky ji odstraníš."
+		},
+
+		"KEYBINGINDS": {
+			"popout": {
+				"name": "Přepnout vyskakovací okno Dice Tray"
+			}
+		},
+
+		"SETTINGS": {
+			"DiceCalculatorSettings": "Nastavení kalkulátoru kostek",
+			"DiceCreator": "Tvůrce kostek",
+			"DiceRowSettings": "Nastavení řádků kostek",
+			"GeneralSettings": "Obecná nastavení",
+			"General": "Obecné",
+			"autoOpenPopout": {
+				"name": "Automatické otevírání vyskakovacích oken",
+				"hint": "Při načtení stránky automaticky otevře vyskakovací okno Dice Tray."
+			},
+			"enableDiceTray": {
+				"name": "Povolení Dice Tray",
+				"hint": "Povolí zobrazení Dice Tray pod oblastí zpráv v chatu."
+			},
+			"enableDiceCalculator": {
+				"name": "Povolení kalkulátoru kostek",
+				"hint": "Povolí zobrazení dialogu kalkulátoru kostek po kliknutí na ikonu k20 u chatu."
+			},
+			"popout": {
+				"name": "Přidání tlačítka pro vyskakovací Dice Tray",
+				"hint": "Přidá tlačítko na panel nástrojů pro přepínání vyskakovacího okna Dice Tray. Vyskakovací okno můžeš přepínat i nastavením klávesové zkratky.",
+				"options": {
+					"all": "Všechny ovládací prvky"
+				}
+			},
+			"SWADE": {
+				"wildDieBehavior": {
+					"name": "Použití fondu kostek pro tlačítko ´Divoká´",
+					"hint": "Kliknutí na stejnou kostku s aktivním režimem ´Divoká´ přidá kostku do fondu namísto zvětšení aktuální kostky v seznamu."
+				}
+			}
+		}
+	}
+}
