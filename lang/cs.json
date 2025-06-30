@@ -77,15 +77,15 @@
 				"hint": "Povolí zobrazení dialogu kalkulátoru kostek po kliknutí na ikonu k20 u chatu."
 			},
 			"popout": {
-				"name": "Přidání tlačítka pro vyskakovací Dice Tray",
-				"hint": "Přidá tlačítko na panel nástrojů pro přepínání vyskakovacího okna Dice Tray. Vyskakovací okno můžeš přepínat i nastavením klávesové zkratky.",
+				"name": "Přidání vyskakovacího Dice Tray",
+				"hint": "Kam se má přidat tlačítko pro přepínání vyskakovacího okna Dice Tray. Vyskakovací okno můžeš přepínat i nastavenou klávesovou zkratkou.",
 				"options": {
 					"all": "Všechny ovládací prvky"
 									}
 			},
 			"rightClickCommand": {
 				"name": "Příkaz pravým kliknutím",
-				"hint": "Určuje, co bude děůlat kliknutí pravým tlačítkem na tlačítko kostky.",
+				"hint": "Určuje, co bude dělat kliknutí pravým tlačítkem na tlačítko kostky.",
 				"options": {
 					"decrease": "Výchozí (Snížit počet kostek)",
 					"roll": "Hodit jednu kostku"
