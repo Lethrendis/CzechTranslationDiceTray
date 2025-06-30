@@ -1,5 +1,5 @@
 
-# CzechDAE
+# CzechDiceTray
 
 Czech translation of Dice Tray version 2.27
 
