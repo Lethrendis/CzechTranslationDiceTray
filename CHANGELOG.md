@@ -1,5 +1,5 @@
 Changelog
 
-Verze 1.0.0:
+Verze 1.1.0:
 První verze modulu.
-Kompletní překlad Dice Tray 2.27.
+Kompletní překlad Dice Tray 3.43.

@@ -1,10 +1,10 @@
 
 # CzechDAE
 
-Czech translation of Dice Tray version 2.27
+Czech translation of Dice Tray version 3.4.3
 
 ## Popis
-Tento modul poskytuje českou lokalizaci pro Dice Tray verze 2.27. Obsahuje překlady základních textů aplikace.
+Tento modul poskytuje českou lokalizaci pro Dice Tray verze 3.4.3. Obsahuje překlady základních textů aplikace.
 
 ## Instalace
 Pro instalaci modulu obvyklým upůsobem můžeš použít následující odkaz ve Foundry VTT:
