@@ -65,7 +65,7 @@
 			"DiceCreator": "Tvůrce kostek",
 			"DiceRowSettings": "Nastavení řádky kostek",
 			"autoOpenPopout": {
-				"name": "Automaticky otevírat vyskakovací okno?",
+				"name": "Automaticky otevírat s vyskakovacím Dice Tray?",
 				"hint": "Při načtení stránky automaticky otevře vyskakovací okno Dice Tray."
 			},
 			"enableDiceTray": {
