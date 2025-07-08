@@ -1,9 +1,9 @@
 {
 	"DICE_TRAY": {
-		"Adv": "V.",
+		"Adv": "V",
 		"Advantage": "Výhoda",
 		"DiceTray": "Dice Tray",
-		"Dis": "NV.",
+		"Dis": "NV",
 		"Disadvantage": "Nevýhoda",
 		"FateDice": "Kostky osudu",
 		"For": "Pro",
@@ -39,7 +39,7 @@
 			},
 			"Label": {
 				"name": "Štítek",
-				"hint": "štítek zobrazovaný v případě, že kostka nemá ilustraci."
+				"hint": "štítek zobrazovaný v případech, kdy kostka nemá ilustraci."
 			},
 			"Tooltip": {
 				"name": "Popiska",
@@ -57,7 +57,7 @@
 
 		"KEYBINGINDS": {
 			"popout": {
-				"name": "Přepnutí vyskakování okna Dice Tray"
+				"name": "Přepínač vyskakovacího okna Dice Tray"
 			}
 		},
 
@@ -72,16 +72,16 @@
 				"name": "Povolit Dice Tray?",
 				"hint": "Povolí zobrazení Dice Tray pod oblastí zpráv v chatu."
 			},
-			"enableDiceCalculator": {
-				"name": "Povolit kalkulátor kostek?",
-				"hint": "Povolí zobrazení dialogu kalkulátoru kostek po kliknutí na ikonu k20 u chatu."
+			"hideAdv": {
+				"name": "Skrývat tlačítka navíc?",
+				"hint": "Skryje tlačítka Štěstí (KH) / Smůla (KL)."
 			},
 			"popout": {
-				"name": "Přidání vyskakovacího Dice Tray",
+				"name": "Vyskakovací tlačítko Dice Tray",
 				"hint": "Kam se má přidat tlačítko pro přepínání vyskakovacího okna Dice Tray. Vyskakovací okno můžeš přepínat i nastavenou klávesovou zkratkou.",
 				"options": {
 					"all": "Všechny ovládací prvky"
-									}
+				}
 			},
 			"rightClickCommand": {
 				"name": "Příkaz pravým kliknutím",
